@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    color: white;
+    overflow: hidden;
+}
+.nome{
+    width: 10000px;
+    height: 100px;
+    background-color: rgba(44, 44, 222, 0.689);
+    letter-spacing: .9rem;
+    margin: -10px;
+    margin-top: -22px; 
+}
+.barra{
+    position: absolute;
+    left: 0%;
+    border-color: rgb(255, 248, 248);
+    background-color:  rgb(255, 255, 255);
+    width: 100vw;
+    height: 10px;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(0, #000000, #665f5f85);
+  }
+.texto {
+    margin: -2cm;
+    padding: 100px;
+}
